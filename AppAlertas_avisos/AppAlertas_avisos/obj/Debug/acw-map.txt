@@ -1,0 +1,4 @@
+AppAlertas_avisos.MainActivity, AppAlertas_avisos;md58de39ec6c037c9a59ac349df37c18547.MainActivity
+AppAlertas_avisos.MainActivity, AppAlertas_avisos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58de39ec6c037c9a59ac349df37c18547.MainActivity
+AppAlertas_avisos.MainActivity;md58de39ec6c037c9a59ac349df37c18547.MainActivity
+appalertas_avisos.MainActivity;md58de39ec6c037c9a59ac349df37c18547.MainActivity

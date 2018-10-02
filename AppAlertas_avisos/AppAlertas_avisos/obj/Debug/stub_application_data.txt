@@ -1,0 +1,2 @@
+android.app.Application
+AppAlertas_avisos.AppAlertas_avisos

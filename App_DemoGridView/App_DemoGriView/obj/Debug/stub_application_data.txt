@@ -1,0 +1,2 @@
+android.app.Application
+App_DemoGriView.App_DemoGriView

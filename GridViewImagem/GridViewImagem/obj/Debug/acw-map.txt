@@ -1,0 +1,8 @@
+GridViewImagem.BandeiraAdapter, GridViewImagem;md5cdaaa958bbe7ea0d44aae94a9e792a2b.BandeiraAdapter
+GridViewImagem.BandeiraAdapter, GridViewImagem, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cdaaa958bbe7ea0d44aae94a9e792a2b.BandeiraAdapter
+GridViewImagem.BandeiraAdapter;md5cdaaa958bbe7ea0d44aae94a9e792a2b.BandeiraAdapter
+gridviewimagem.BandeiraAdapter;md5cdaaa958bbe7ea0d44aae94a9e792a2b.BandeiraAdapter
+GridViewImagem.MainActivity, GridViewImagem;md5cdaaa958bbe7ea0d44aae94a9e792a2b.MainActivity
+GridViewImagem.MainActivity, GridViewImagem, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cdaaa958bbe7ea0d44aae94a9e792a2b.MainActivity
+GridViewImagem.MainActivity;md5cdaaa958bbe7ea0d44aae94a9e792a2b.MainActivity
+gridviewimagem.MainActivity;md5cdaaa958bbe7ea0d44aae94a9e792a2b.MainActivity

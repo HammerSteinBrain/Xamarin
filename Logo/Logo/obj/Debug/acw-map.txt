@@ -1,0 +1,8 @@
+Logo.Apresentacao, Logo;md5481d3695359109ddc836c661475ac993.Apresentacao
+Logo.Apresentacao, Logo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5481d3695359109ddc836c661475ac993.Apresentacao
+Logo.Apresentacao;md5481d3695359109ddc836c661475ac993.Apresentacao
+logo.Apresentacao;md5481d3695359109ddc836c661475ac993.Apresentacao
+Logo.MainActivity, Logo;md5481d3695359109ddc836c661475ac993.MainActivity
+Logo.MainActivity, Logo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5481d3695359109ddc836c661475ac993.MainActivity
+Logo.MainActivity;md5481d3695359109ddc836c661475ac993.MainActivity
+logo.MainActivity;md5481d3695359109ddc836c661475ac993.MainActivity
