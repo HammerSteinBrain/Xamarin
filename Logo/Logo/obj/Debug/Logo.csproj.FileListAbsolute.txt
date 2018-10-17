@@ -91,5 +91,6 @@ C:\Users\Rodrigo\Desktop\Xamarin\Aula3_Logo\Logo\obj\Debug\linksrc\System.pdb
 C:\Users\Rodrigo\Desktop\Xamarin\Aula3_Logo\Logo\obj\Debug\linksrc\System.Runtime.Serialization.pdb
 C:\Users\Rodrigo\Desktop\Xamarin\Aula3_Logo\Logo\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
 C:\Users\Rodrigo\Desktop\Xamarin\Aula3_Logo\Logo\obj\Debug\linksrc\System.Xml.pdb
-C:\Users\Rodrigo\Desktop\Xamarin\Aula3_Logo\Logo\bin\Debug\Logo.dll
-C:\Users\Rodrigo\Desktop\Xamarin\Aula3_Logo\Logo\obj\Debug\linksrc\Logo.dll.mdb
+C:\Users\Rodrigo\Desktop\Xamarin\Logo\Logo\obj\Debug\Logo.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Xamarin\Logo\Logo\bin\Debug\Logo.dll
+C:\Users\Rodrigo\Desktop\Xamarin\Logo\Logo\obj\Debug\linksrc\Logo.dll.mdb

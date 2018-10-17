@@ -22,7 +22,7 @@ namespace Logo
         {
             base.OnCreate(savedInstanceState);
 
-            Thread.Sleep(4000);
+            Thread.Sleep(3000);
             StartActivity(typeof(MainActivity));
             
         }
